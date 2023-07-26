@@ -1,0 +1,83 @@
+/*------------------------------------*\
+      #WELCOME-SECTION
+  \*------------------------------------*/
+
+.nav {
+  display: none;
+}
+
+.nav-scrolled {
+  display: flex;
+  background: var(--main-purple);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  transition: all 0.6s ease;
+  z-index: 999;
+  position: fixed;
+  width: 100%;
+  padding: 1rem;
+}
+
+.debug-center {
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+}
+
+.welcome-section-cats {
+  background-image: url("../../pictures/ezgif.com-video-to-gif.gif");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--main-black);
+  width: 100%;
+  min-height: 50vh;
+  color: var(--main-white);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0 8%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 5rem;
+}
+
+.welcome-section-cartoon {
+  background-image: url("../../pictures/ezgif.com-video-to-gif\ \(2\).gif");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--main-black);
+  width: 100%;
+  min-height: 50vh;
+  color: var(--main-white);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0 8%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 5rem;
+}
+
+.welcome-section-blog {
+  background-image: url("../../pictures/ezgif.com-video-to-gif\ \(1\).gif");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--main-black);
+  width: 100%;
+  min-height: 50vh;
+  color: var(--main-white);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0 8%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 5rem;
+}
