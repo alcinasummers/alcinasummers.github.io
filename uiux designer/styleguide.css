@@ -1,0 +1,104 @@
+:root {
+  --dark: #000000;
+  --light: #ffffff;
+
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 96px;
+
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-nanum_pen-regular: "Space Mono", Helvetica;
+  --font-family-space_mono: "Space Mono", Helvetica;
+}
+.nanumpen-regular-normal-white-40px {
+  font-family: var(--font-family-nanum_pen-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-white-32px {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --dark: #000000;
+  --light: #ffffff;
+  --gray: #282828;
+  --light-gray: #7e7e7e;
+  --gradient-strawberry: linear-gradient(
+    -90deg,
+    rgba(255, 70, 70, 1) 0%,
+    rgba(255, 148, 134, 1) 100%
+  );
+  --gradient-lima: linear-gradient(
+    -90deg,
+    rgba(255, 229, 151, 1) 0%,
+    rgba(170, 255, 130, 1) 100%
+  );
+  --gradient-grape: linear-gradient(
+    -90deg,
+    rgba(219, 166, 244, 1) 0%,
+    rgba(169, 129, 254, 1) 100%
+  );
+  --gradient-bless: linear-gradient(
+    -90deg,
+    rgba(254, 189, 129, 1) 0%,
+    rgba(255, 229, 152, 1) 48.95833432674408%,
+    rgba(191, 244, 166, 1) 100%
+  );
+  --gradient-peach: linear-gradient(
+    -90deg,
+    rgba(251, 174, 149, 1) 0%,
+    rgba(255, 229, 152, 1) 100%
+  );
+  --gradient-blueberry: linear-gradient(
+    -90deg,
+    rgba(129, 179, 254, 1) 0%,
+    rgba(224, 166, 244, 1) 100%
+  );
+  --gradient-mint: linear-gradient(
+    -90deg,
+    rgba(169, 254, 129, 1) 0%,
+    rgba(192, 240, 255, 1) 100%
+  );
+  --gradient-sunset: linear-gradient(
+    -90deg,
+    rgba(171, 131, 254, 1) 0%,
+    rgba(251, 174, 150, 1) 100%
+  );
+  --gradient-spidey: linear-gradient(
+    -25.24deg,
+    rgba(134, 184, 255, 1) 0%,
+    rgba(255, 75, 74, 1) 100%
+  );
+  --gradient-sky: linear-gradient(
+    -90deg,
+    rgba(191, 240, 255, 1) 0%,
+    rgba(130, 180, 255, 1) 100%
+  );
+  --gradient-nordic: linear-gradient(
+    -90deg,
+    rgba(169, 254, 129, 1) 0%,
+    rgba(171, 131, 254, 1) 100%
+  );
+
+  /* Fonts */
+  --huge-headline: 700 96px/128px "Space Mono", sans-serif;
+  --big-title: 700 78px/96px "Space Mono", sans-serif;
+  --title: 700 48px/64px "Space Mono", sans-serif;
+  --quote: 400 40px/40px "Nanum Pen", sans-serif;
+  --button: 700 24px/32px "DM Sans", sans-serif;
+  --caption-2-0: 400 18px/50px "DM Sans", sans-serif;
+  --body-medium: 500 32px/48px "DM Sans", sans-serif;
+  --body-bold: 700 32px/48px "DM Sans", sans-serif;
+
+  /* Effects */
+}
