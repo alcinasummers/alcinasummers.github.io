@@ -642,9 +642,8 @@ article * {
    \*------------------------------------*/
 
 .certificates-img {
-  width: 13%;
+  width: 40%;
   border-radius: 100%;
-  border: 7px solid var(--main-purple);
   margin: 0 auto;
 }
 
@@ -819,7 +818,6 @@ article * {
   }
   .certificates-img {
     width: 55%;
-    border: 16px solid var(--main-purple);
   }
   .certificates-font {
     margin-bottom: 2rem;
