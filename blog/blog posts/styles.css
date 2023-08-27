@@ -23,7 +23,7 @@
 }
 
 .welcome-section-cats {
-  background-image: url("https://github.com/yammiesummers/yammiesummers.github.io/blob/main/pictures/ezgif.com-video-to-gif.gif");
+  background-image: url("../../../pictures/ezgif.com-video-to-gif.gif");
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -43,7 +43,7 @@
 }
 
 .welcome-section-cartoon {
-  background-image: url("https://github.com/yammiesummers/yammiesummers.github.io/blob/main/pictures/NEWGIF.gif");
+  background-image: url("../../../pictures/NEWGIF.gif");
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -63,7 +63,7 @@
 }
 
 .welcome-section-blog {
-  background-image: url("https://github.com/yammiesummers/yammiesummers.github.io/blob/main/pictures/ezgif.com-video-to-gif%20(1).gif");
+  background-image: url("../../../pictures/ezgif.com-video-to-gif (1).gif");
   display: flex;
   flex-direction: column;
   justify-content: center;
